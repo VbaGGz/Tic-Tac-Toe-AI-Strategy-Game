@@ -1,2 +1,4 @@
 # Tic-Tac-Toe-AI-Strategy-Game
-tic-tac-toe AI in Java
+
+**Tic Tac Toe, AI in Java**
+_command line UI_
